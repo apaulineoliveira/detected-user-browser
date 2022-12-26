@@ -1,0 +1,2 @@
+<h1>Detected User Browser </h1>
+<p>O objetivo deste projeto foi criar um detector de sistema operacional e browser utilizado pelo usuário no momento da consulta. O projeto foi feito em html, css e javascript.</p>
