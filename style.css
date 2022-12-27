@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: rgb(1, 56, 56);
+    background-color: rgb(147, 147, 12);
 }
 
 #container {
@@ -16,7 +16,7 @@ body {
     width: 90vw;
     max-width: 600px;
     padding: 40px 20px;
-    border-radius: 15px;
+    border-radius: 5px;
     font-family: sans-serif;
     font-size: 3.5vmin;
     letter-spacing: 1.5px;
@@ -29,5 +29,9 @@ body {
 #container span {
     font-weight: 400;
     word-break: normal;
-    color: rgb(2, 70, 63);
+    color: rgba(211, 156, 6, 0.647);
+}
+
+#container span:hover {
+    color: rgb(92, 95, 3);
 }
