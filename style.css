@@ -19,4 +19,15 @@ body {
     border-radius: 15px;
     font-family: sans-serif;
     font-size: 3.5vmin;
+    letter-spacing: 1.5px;
+    line-height: 3;
+    color: rgb(54, 54, 54);
+    text-align: center;
+    box-shadow: 0 20px 50px rgba(5, 26, 50, 0.18);    
+}
+
+#container span {
+    font-weight: 400;
+    word-break: normal;
+    color: rgb(2, 70, 63);
 }
