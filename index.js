@@ -9,4 +9,11 @@ var browserList = [
     { name: "Safari", value: "Safari" },
 ];
 
-var
+var os = [
+    { name: "Android", value: "Android" },
+    { name: "iPhone", value: "iPhone" },
+    { name: "iPad", value: "Mac" },
+    { name: "Macintosh", value: "Mac" },
+    { name: "Linux", value: "Linux" },
+    { name: "Windows", value: "Win" },
+];
