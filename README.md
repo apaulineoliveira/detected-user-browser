@@ -10,3 +10,6 @@ Optei por um html simples e intuitvo apenas com uma <code>div</code> onde irá a
 
 <br></br>
 <br></br>
+
+<h1>Detected User Browser </h1>
+<p>🧶 Objective: The objective of this project was to create an operating system and browser detector used by the user when querying the system. In this project were used html, css and javascript.</p>
